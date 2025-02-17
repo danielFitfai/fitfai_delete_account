@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.3568d250.css",
-    "main.js": "/static/js/main.6ef24da1.js",
+    "main.js": "/static/js/main.51218ee8.js",
     "static/js/787.90749350.chunk.js": "/static/js/787.90749350.chunk.js",
     "static/media/fitfai-icon.png": "/static/media/fitfai-icon.0a2c5d7ff1847450a688.png",
     "index.html": "/index.html",
     "main.3568d250.css.map": "/static/css/main.3568d250.css.map",
-    "main.6ef24da1.js.map": "/static/js/main.6ef24da1.js.map",
+    "main.51218ee8.js.map": "/static/js/main.51218ee8.js.map",
     "787.90749350.chunk.js.map": "/static/js/787.90749350.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3568d250.css",
-    "static/js/main.6ef24da1.js"
+    "static/js/main.51218ee8.js"
   ]
 }
